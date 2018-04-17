@@ -5,4 +5,4 @@ install:
   - docker build -t josepipher/docusaurus .
 
 script:
-  - docker run -p 8000:8000 josepipher/docusaurus npm start -- --port 8000
+  - docker run -d -p 8000:8000 josepipher/docusaurus npm start -- --port 8000
