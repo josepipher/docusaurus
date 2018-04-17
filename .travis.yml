@@ -1,0 +1,8 @@
+services:
+  - docker
+
+install:
+  - docker build -t josepipher/docusaurus .
+
+script:
+  - docker run -it -p 8000:8000 josepipher/docusaurus npm start -- --port 8000
