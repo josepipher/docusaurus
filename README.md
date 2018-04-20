@@ -1,7 +1,8 @@
 # Docusaurus on Docker
 [![Build Status](https://travis-ci.org/josepipher/docusaurus.svg?branch=master)](https://travis-ci.org/josepipher/docusaurus)
-[![Docker Build](https://img.shields.io/docker/build/sanjose/docusaurus.svg)]()
+[![Docker Build](https://img.shields.io/docker/build/sanjose/docusaurus.svg)](https://hub.docker.com/r/sanjose/docusaurus/)
 [![Docker Build](https://img.shields.io/docker/automated/sanjose/docusaurus.svg)](https://hub.docker.com/r/sanjose/docusaurus/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sanjose/docusaurus.svg)](https://hub.docker.com/r/sanjose/docusaurus/)
 
 ## Run the following command to start
 ```
